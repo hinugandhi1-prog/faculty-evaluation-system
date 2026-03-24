@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65105751785",
+    "project_id": "faculty-evaluation-syste-1d5ae",
+    "storage_bucket": "faculty-evaluation-syste-1d5ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65105751785:android:019ce21d433bd7b8108a78",
+        "android_client_info": {
+          "package_name": "com.example.faculty_evaluation_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1SP6J56Mw9P-6ETucAl3jpyOFwft1Olw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
